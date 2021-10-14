@@ -34,20 +34,21 @@ Are you ready for the challenge? If yes, read through this page, and apply for o
 
 ## Teams:
 
-### Team Paris
+### Team Kore
 
-![Screen Shot 2021-10-03 at 11 47 01](https://user-images.githubusercontent.com/1504544/135750289-75d9b5d6-052f-49cb-8d96-60d5ae51a5a7.png)
+![axie_team](https://user-images.githubusercontent.com/92491694/137230313-38198d1c-9daa-4b2b-a454-028f70af93f4.png)
 
-This is a Plant + double Aqua team. Axies details:
+
+This is a Aqua + Beast + Plant team (ABP). Axies details:
 
 - Front Liner:
-![Screen Shot 2021-10-03 at 11 49 51](https://user-images.githubusercontent.com/1504544/135750423-3e9bb2eb-e8e8-4ac3-b79a-e18afe74c06e.png)
+![axie_frontliner](https://user-images.githubusercontent.com/92491694/137230369-ff418c55-cc69-45cc-a788-ab10d49e3fa1.png)
 
 - Mid Liner:
- ![Screen Shot 2021-10-03 at 11 50 05](https://user-images.githubusercontent.com/1504544/135750432-b512b536-32e0-40aa-8822-25eb3a691503.png)
+![axie_midliner](https://user-images.githubusercontent.com/92491694/137230378-c9aa6ca3-6e8d-442b-8df3-b17d213d5d9f.png)
 
 - Back Liner:
- ![Screen Shot 2021-10-03 at 11 50 14](https://user-images.githubusercontent.com/1504544/135750441-b1024e4c-1bbf-41da-b241-6ede0e609817.png)
+![axie_backliner](https://user-images.githubusercontent.com/92491694/137230384-ab241b08-c174-4bab-b8a4-5323bcb8a509.png)
 
 
 P.S: When you start playing, these axies will be level 1.
