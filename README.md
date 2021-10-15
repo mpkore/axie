@@ -26,7 +26,7 @@ Are you ready for the challenge? If yes, read through this page, and apply for o
 ## Payment
 - You’ll be paid in SLP to a Ronin Wallet;
   - Create your own Ronin Wallet;
-- You get 50% percent of all SLP you earn;
+- You get 40% percent of all SLP you earn;
   - Including bonus SLP (e.g. Bosses);
 - Payments are at the 15th and 30th of the month;
 - Except the first payment, that's only after you earn 3.000 SLP;
